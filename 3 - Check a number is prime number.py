@@ -7,7 +7,7 @@ elif input_num == 2:
     print("2 is a prime number")
 else:
     for i in range(2, input_num):
-        if input_num % i ==0:
+        if input_num % i == 0:
             is_prime = False
             break
 
