@@ -2,7 +2,7 @@
 Bài tập python thi học sinh giỏi
 
 
-# Các mô đun trong bài (Code nội bộ không phải tải bên ngoài)
+# Các mô đun trong bài
 
  [* Truy vấn số](https://github.com/Nekitori17/Python-Exercise/blob/main/tien_ich/lay_dau_ra.py)
 
