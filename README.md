@@ -4,9 +4,9 @@ Bài tập python thi học sinh giỏi
 
 ### Các mô đun trong bài
 
- * [Truy vấn số](https://github.com/Nekitori17/Python-Exercise/blob/main/tien_ich/lay_dau_ra.py)
+ * [Thao tác với phân số](https://github.com/Nekitori17/Python-Exercise/blob/main/UTILS/fraction_operation.py)
 
- * [Lấy đầu ra](https://github.com/Nekitori17/Python-Exercise/blob/main/tien_ich/truy_van_so.py)
+ * [Lấy đầu ra](https://github.com/Nekitori17/Python-Exercise/blob/main/UTILS/get_output.py)
 
 ### Các bài tập
 
