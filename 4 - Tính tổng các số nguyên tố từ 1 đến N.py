@@ -6,7 +6,7 @@ while tong_den <= 2:
   os.system("cls")
   tong_den = int(input("Không thể để số nhỏ hơn hoặc bằng hai: "))
 
-def kiem_tra_so_nguyen_to(so):
+def kiem_tra_so_nguyen_to(so: int) -> bool:
   la_so_nguyen_to = True
   if so == 1:
     return False
