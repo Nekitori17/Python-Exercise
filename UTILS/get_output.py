@@ -2,19 +2,23 @@ from UTILS.fraction_operation import *
 from typing import *
 import re
 
+
 def in_ra_phan_so(text: str, object: any):
-  if isinstance(object, tuple):
-    print(str(text).format(f"{object[0]}/{object[1]}"))
-  else:
-    print(str(text).format(object))
+    if isinstance(object, tuple):
+        print(str(text).format(f"{object[0]}/{object[1]}"))
+    else:
+        print(str(text).format(object))
+
 
 def tuple_hay_so(so_bi_chia: int, so_chia: int) -> Tuple[int, int] | float:
-  if so_bi_chia % so_chia != 0:
-    return rut_gon(so_bi_chia, so_chia)
-  else:
-    return so_bi_chia / so_chia
+    if so_bi_chia % so_chia != 0:
+        return rut_gon(so_bi_chia, so_chia)
+    else:
+        return so_bi_chia / so_chia
+
 
 _regex_phan_so = r"([+-]?\d+([+\-*/]\d+)*)\/([+-]?\d+([+\-*/]\d+)*)"
+
 
 def phan_so_thanh_tuple(phan_so: str) -> Tuple[int, int] | None:
     match = re.match(_regex_phan_so, phan_so)
