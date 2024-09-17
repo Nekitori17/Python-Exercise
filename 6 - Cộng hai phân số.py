@@ -1,5 +1,4 @@
 import re
-from UTILS.fraction_operation import *
 from UTILS.get_output import *
 
 regex_phan_so = r"([+-]?\d+([+\-*/]\d+)*)\/([+-]?\d+([+\-*/]\d+)*)"
