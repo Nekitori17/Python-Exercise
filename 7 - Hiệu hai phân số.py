@@ -28,8 +28,8 @@ while phan_so_2[1] == 0:
 
 if phan_so_1[1] == phan_so_2[1]:
   ket_qua = tuple_hay_so(phan_so_1[0] - phan_so_2[0], phan_so_1[1])
-  in_ra_phan_so("Tổng hai phân số là: {0}", ket_qua, " ")
+  in_ra_phan_so("Hiệu hai phân số là: {0}", ket_qua, " ")
 else:
   ket_qua = tuple_hay_so((phan_so_1[0] * phan_so_2[1]) - (phan_so_2[0] * phan_so_1[1]), phan_so_1[1] * phan_so_2[1])
-  in_ra_phan_so("Tổng hai phân số là: {0}", ket_qua, " ")
+  in_ra_phan_so("Hiệu hai phân số là: {0}", ket_qua, " ")
 

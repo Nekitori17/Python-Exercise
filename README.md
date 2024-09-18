@@ -21,3 +21,5 @@ Bài tập python thi học sinh giỏi
 * [Tính phương trình bậc 2 một ẩn](https://github.com/Nekitori17/Python-Exercise/blob/main/5%20-%20T%C3%ADnh%20ph%C6%B0%C6%A1ng%20tr%C3%ACnh%20b%E1%BA%ADc%202%20m%E1%BB%99t%20%E1%BA%A9n.py)
 
 * [Cộng hai phân số](https://github.com/Nekitori17/Python-Exercise/blob/main/6%20-%20C%E1%BB%99ng%20hai%20ph%C3%A2n%20s%E1%BB%91.py)
+
+* [Trừ hai phân số](https://github.com/Nekitori17/Python-Exercise/blob/main/7%20-%20Hi%E1%BB%87u%20hai%20ph%C3%A2n%20s%E1%BB%91.py)
