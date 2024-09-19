@@ -6,6 +6,8 @@ Bài tập python thi học sinh giỏi
 
  * [Thao tác với phân số](https://github.com/Nekitori17/Python-Exercise/blob/main/UTILS/fraction_operation.py)
 
+ * [Thao tác với số nguyên](https://github.com/Nekitori17/Python-Exercise/blob/main/UTILS/number_operation.py)
+
  * [Lấy đầu ra](https://github.com/Nekitori17/Python-Exercise/blob/main/UTILS/get_output.py)
 
 ### Các bài tập
@@ -23,3 +25,7 @@ Bài tập python thi học sinh giỏi
 * [Cộng hai phân số](https://github.com/Nekitori17/Python-Exercise/blob/main/6%20-%20C%E1%BB%99ng%20hai%20ph%C3%A2n%20s%E1%BB%91.py)
 
 * [Trừ hai phân số](https://github.com/Nekitori17/Python-Exercise/blob/main/7%20-%20Hi%E1%BB%87u%20hai%20ph%C3%A2n%20s%E1%BB%91.py)
+
+* [Tính tổng chẵn lẻ và sắp xếp từ mảng](https://github.com/Nekitori17/Python-Exercise/blob/main/8%20-%20T%C3%ADnh%20t%E1%BB%95ng%20ch%E1%BA%B5n%20l%E1%BA%BB%20v%C3%A0%20s%E1%BA%AFp%20x%E1%BA%BFp%20t%E1%BB%AB%20danh%20s%C3%A1ch.py)
+
+* [Tính tổng ma trận 3x4](https://github.com/Nekitori17/Python-Exercise/blob/main/9%20-%20T%C3%ADnh%20t%E1%BB%95ng%20ma%20tr%E1%BA%ADn%203x4.py)
